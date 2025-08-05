@@ -86,4 +86,6 @@ The page reloads automatically when you make changes.
 
 3. Customize styles as needed in CSS files or through React-Bootstrap.
 
+---
+
 <div align="center"> Made with ❤️ by <b>dv0retsky</b> </div>
